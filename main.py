@@ -1,4 +1,6 @@
 def main():
+    print('Hello World')
+    print('CS122: Programming and Algorithms in Python')
 
     ##############################
     # make your code below
